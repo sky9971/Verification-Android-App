@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Verification App</string>
+    <string name="smstext">Hi. Your OTP is: %d</string>
+    <string name="otp_text">Enter OTP text to send</string>
+</resources>
